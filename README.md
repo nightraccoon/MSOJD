@@ -1,2 +1,2 @@
 # MSOJD
-My way in junior developer
+My way to junior developer
